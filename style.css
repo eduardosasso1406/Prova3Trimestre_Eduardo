@@ -1,0 +1,25 @@
+body{  
+background-color:black;
+
+
+}
+
+
+p { color: aliceblue;}
+
+
+header {   
+
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    color: rgb(42, 122, 228);
+    font-size: 32px;
+    
+}
+ section{ 
+
+
+
+    border-color: rgb(184,156,213);
+ }
+
